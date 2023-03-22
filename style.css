@@ -535,6 +535,7 @@ body {
 #content main .table-data .todo {
     flex-grow: 1;
     flex-basis: 300px;
+    position: right;
 }
 
 #content main .table-data .todo .todo-list {
